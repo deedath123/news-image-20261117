@@ -1,6 +1,6 @@
 """Entry for make.fun news-image-20261117: sum up Tuesday 17 November 2026's
 world news in one image. The program delivers the committed front page
-(34 numbered stories, hero Kerch Bridge collapse, every block with a hard
+(35 numbered stories, world map with numbered dots, every block with a hard
 number and a source tag) to the output directory byte for byte."""
 import os
 
